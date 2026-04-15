@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "small-piece.github.io/unreal-advanced-notes",
+    baseUrl: "Small-Piece.github.io/unreal-advanced-notes",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
